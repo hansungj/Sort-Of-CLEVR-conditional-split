@@ -1,0 +1,53 @@
+{
+  "question_token_to_idx": {
+    "<NULL>": 0,
+    "<START>": 1,
+    "<END>": 2,
+    "red": 3,
+    "green": 4,
+    "blue": 5,
+    "orange": 6,
+    "gray": 7,
+    "yellow": 8,
+    "which": 9,
+    "closest": 10,
+    "furthest": 11,
+    "shape": 12,
+    "count": 13,
+    "left": 14,
+    "up": 15
+  },
+  "answer_token_to_idx": {
+    "yes": 0,
+    "no": 1,
+    "rectangle": 2,
+    "circle": 3,
+    "1": 4,
+    "2": 5,
+    "3": 6,
+    "4": 7,
+    "5": 8,
+    "6": 9,
+    "triangle": 10
+  },
+  "text_token_to_idx": {
+    "red": 1,
+    "green": 2,
+    "blue": 3,
+    "orange": 4,
+    "gray": 5,
+    "yellow": 6,
+    "which": 7,
+    "closest": 8,
+    "furthest": 9,
+    "shape": 10,
+    "count": 11,
+    "left": 12,
+    "up": 13
+  },
+  "program_token_to_idx": {
+    "<NULL>": 0,
+    "<START>": 1,
+    "<END>": 2
+  }
+}
