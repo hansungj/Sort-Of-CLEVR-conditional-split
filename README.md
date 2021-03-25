@@ -1,5 +1,7 @@
 # Sort-Of-CLEVR-conditional-split
 ![alt text](https://github.com/hansungj/Sort-Of-CLEVR-conditional-split/blob/main/0.png)
+
+
 In CoGenS, there are 6 question types: 
 - Which shape [Colour]?
 - [Colour] shape left?
