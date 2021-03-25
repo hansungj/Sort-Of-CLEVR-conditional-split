@@ -10,5 +10,5 @@ In CoGenS, there are 6 question types:
 - [Colour] furthest shape?
 - [Colour] shape count?
 
-#Acknowledgement 
+# Acknowledgement 
 This code is largely based on the implemenation from https://github.com/kimhc6028/relational-networks.
